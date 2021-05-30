@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Lesson_1_hw_1.1</string>
+    <string name="surprise">Surprise</string>
+    <string name="input_your_gender">input your gender</string>
+    <string name="button">Button</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="switch_1">Switch</string>
+    <string name="test">Ставя галочку вы отдаете душу</string>
+    <string name="yes">Да</string>
+
+
 </resources>
