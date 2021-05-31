@@ -9,6 +9,12 @@
     <string name="switch_1">Switch</string>
     <string name="test">Ставя галочку вы отдаете душу</string>
     <string name="yes">Да</string>
+    <string name="hello_there">Hello there!</string>
+    <string name="input_password">Input password</string>
+    <string name="input_number">Input number</string>
+    <string name="input_phone_number">input_phone_number</string>
+    <string name="Input_password">Input_password</string>
+    <string name="input_your_email">Input your Email</string>
 
 
 </resources>
